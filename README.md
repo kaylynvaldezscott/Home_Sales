@@ -1,7 +1,7 @@
 # Home_Sales
 Submitted by Kaylyn Valdez-Scott Date: 01-FEB-2024 Project Title: Module 22 SparkSQL Big Data Challenge
 
-Purpose of project : use knowledge of SparkSQL to determine key metrics about home sales data. Then use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+Purpose of Project : Use knowledge of SparkSQL to determine key metrics about home sales data. Then use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 Below are the questions that the assignment aims to answer, as well as my findings through utilizing Google Colab and SparkSQL:
 
